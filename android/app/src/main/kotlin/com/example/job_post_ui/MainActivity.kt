@@ -1,4 +1,4 @@
-package com.example.curso_job_finder_app
+package com.example.job_post_ui
 
 import io.flutter.embedding.android.FlutterActivity
 
